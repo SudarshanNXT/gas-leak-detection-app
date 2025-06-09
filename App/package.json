@@ -1,0 +1,34 @@
+{
+  "name": "myglds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "@firebase/app": "^0.12.1",
+    "@firebase/auth": "^1.10.2",
+    "@firebase/database": "^1.0.15",
+    "@react-native-firebase/app": "^22.2.0",
+    "@react-native-firebase/database": "^22.2.0",
+    "expo": "~53.0.9",
+    "expo-av": "~15.1.4",
+    "expo-notifications": "~0.31.1",
+    "expo-status-bar": "~2.2.3",
+    "firebase": "^11.7.1",
+    "moment": "^2.30.1",
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-chart-kit": "^6.12.0",
+    "expo-audio": "~0.4.4",
+    "expo-video": "~2.1.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
